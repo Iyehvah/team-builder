@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+.AddingMember{
+  color: green;
+}
+
+.member{
+  margin: 0 auto;
+  width: 20%;
+  background-color: gray;
+  color: red;
+}
